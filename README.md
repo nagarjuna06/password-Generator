@@ -5,4 +5,4 @@ You can choose what character sets to use. You can also provide a custom set of 
 
 
 
-\nView [password-generator](https://nagarjuna06.github.io/password-Generator/)
+View [password-generator](https://nagarjuna06.github.io/password-Generator/) on web
